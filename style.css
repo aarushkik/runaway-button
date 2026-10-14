@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+#runaway{
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 12px 24px;
+    position: fixed;
+    left: 150px;
+    top: 250px;
+}
